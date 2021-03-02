@@ -84,7 +84,7 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 
 # (Please refer to the IPYNB File for detailed analysis).
 
-[Wine Analysis.ipynb](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WineAnalysis) 
+[Wine Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WineAnalysis) 
 
 
 
