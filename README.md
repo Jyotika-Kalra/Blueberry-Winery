@@ -88,6 +88,8 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 
 [Modelling](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Modelling.ipynb)
 
+<img src="https://i.pinimg.com/originals/3d/fa/ba/3dfaba69cc872a5fbbea3400bc8ec20b.jpg" />
+
 
 
 
