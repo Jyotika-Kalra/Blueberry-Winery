@@ -1,4 +1,4 @@
-# Wine Analysis
+# Wine Analysis :thought_balloon:
 Wine has been around for a really long time, almost about 5,000 BC. Have we ever thought why it's been around for so long. Because of it is easy to make process of simply yeast eating the natural fermentable sugars in grape juice to give its main product alcohol. Any fruit juice with fermentable sugars can make wine but grapes being higher on the fruit evolutionary ladder on fermentable sugar content we choose grapes for making wine.
 
 <img src="https://i.pinimg.com/originals/f4/9e/a9/f49ea9151a1aa714de4397b5abc10490.gif" width="300" />
@@ -37,7 +37,7 @@ There are 1599 samples of red wine and 4898 samples of white wine in the data se
 
 7th: From the column 'Quality', Grouping the Quality numbers into categories of 'Low', 'Medium' and 'High' quality of wines.
 
-# Questions popped up while analysing the Dataset
+# Questions popped up while analysing the Dataset :question:
 
 Q1: Based on histograms of columns in the newly combined dataset, which of the following feature variables appear skewed to the right? Fixed Acidity, Total Sulfur Dioxide, pH, Alcohol?
 
@@ -82,11 +82,16 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 3. Wines with higher alcoholic content generally receive better ratings.
 4. Sweeter wines generally receive higher ratings.
 
+# For more analysis please refer to [Plots](https://github.com/Jyotika-Kalra/Blueberry-Winery/tree/main/Plots) :sunglasses:
+
+# Data set reference [Dataset](https://github.com/Jyotika-Kalra/Blueberry-Winery/tree/main/Dataset) :sunglasses:
+
 # (Please refer to the IPYNB File for detailed analysis).
 
 [Wine Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WineAnalysis) 
 
 [Modelling](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Modelling.ipynb)
+
 
 <img src="https://i.pinimg.com/originals/3d/fa/ba/3dfaba69cc872a5fbbea3400bc8ec20b.jpg" />
 
