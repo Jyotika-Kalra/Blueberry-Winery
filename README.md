@@ -95,7 +95,9 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 [Wine Price Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WinePriceAnalysis.ipynb)
 
 
-<img src="https://i.pinimg.com/originals/3d/fa/ba/3dfaba69cc872a5fbbea3400bc8ec20b.jpg" />
+<p align="center">
+  <img width="700" height="200" src="https://i.pinimg.com/originals/3d/fa/ba/3dfaba69cc872a5fbbea3400bc8ec20b.jpg">
+</p>
 
 
 
