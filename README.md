@@ -82,11 +82,11 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 3. Wines with higher alcoholic content generally receive better ratings.
 4. Sweeter wines generally receive higher ratings.
 
-# For more analysis please refer to [Plots](https://github.com/Jyotika-Kalra/Blueberry-Winery/tree/main/Plots) :sunglasses:
+## For more analysis please refer to [Plots](https://github.com/Jyotika-Kalra/Blueberry-Winery/tree/main/Plots) :sunglasses:
 
-# Data set reference [Dataset](https://github.com/Jyotika-Kalra/Blueberry-Winery/tree/main/Dataset) :sunglasses:
+## Data set reference [Dataset](https://github.com/Jyotika-Kalra/Blueberry-Winery/tree/main/Dataset) :sunglasses:
 
-# (Please refer to the IPYNB File for detailed analysis).
+## (Please refer to the IPYNB File for detailed analysis).
 
 [Wine Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WineAnalysis) 
 
