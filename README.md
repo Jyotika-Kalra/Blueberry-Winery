@@ -90,7 +90,9 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 
 [Wine Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/WineAnalysis.ipynb) 
 
-[Modelling](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/KNNModelling.ipynb)
+[KNN Modelling](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/KNNModelling.ipynb)
+
+[Decision Tree Modelling](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/DecisionTreeML.ipynb)
 
 [Wine Price Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/WinePriceAnalysis.ipynb)
 
