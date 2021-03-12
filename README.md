@@ -88,11 +88,11 @@ According to analysis done above from the data obtained from UCI Machine Learnin
 
 ## (Please refer to the IPYNB File for detailed analysis).
 
-[Wine Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WineAnalysis) 
+[Wine Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/WineAnalysis.ipynb) 
 
 [Modelling](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/KNNModelling.ipynb)
 
-[Wine Price Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/WinePriceAnalysis.ipynb)
+[Wine Price Analysis](https://github.com/Jyotika-Kalra/Blueberry-Winery/blob/main/Analysis%20%26%20Modelling/WinePriceAnalysis.ipynb)
 
 ## For Tableau Dashboard for Portugal Wine Price Analysis:
 
